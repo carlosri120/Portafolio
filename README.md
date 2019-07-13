@@ -1,6 +1,3 @@
-# Tarjeta de Presentacion hecha con HTML, CSS y Javascript (Jquery)
-### [Tutorial:](http://www.falconmasters.com/cursos/curso-bootstrap/)
+# Tarjeta de Presentacion hecha con HTML, CSS y Javascript
 
-![Tarjeta de Presentacion hecha con HTML, CSS y Javascript (Jquery)](https://raw.githubusercontent.com/falconmasters/Tarjeta-de-Presentacion/master/thumb.jpg)
-
-Por: [FalconMasters](http://www.falconmasters.com)
+Actualmente estudio ingenieria de software en la Fundación Universitaria Unipanamericana cursando tercer semestre,y por esta misma razón no tengo experiencia laboral. Me considero apto para realizar cualquier tipo de trabajo (así no tenga experiencia) ya que aprendo muy rápido y me adapto lo mejor posible a cualquier ambiente laboral. 
